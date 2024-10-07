@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis
-
+SQL Project
 
 ## Problem Statement
 
